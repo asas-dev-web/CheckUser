@@ -1,4 +1,4 @@
-# CheckUser
+# CheckUser GL
 
 *CheckUser* E um verificador de usuários.
 

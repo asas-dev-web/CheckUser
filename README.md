@@ -7,7 +7,7 @@
 apt-get update && apt-get install git -y
 ```
 ```
-python3 -m pip install git+https://github.com/TH30R10N/CheckUser/CheckUser.git
+python3 -m pip install git+https://github.com/asas-dev-web/CheckUser/CheckUser.git
 ```
 ```
 checkuser --create-service --config-port 5000 --start
@@ -21,12 +21,12 @@ curl -sL https://raw.githubusercontent.com/CheckUser/master/install.sh > install
 
 # Atualização
 ```
-python3 -m pip install --upgrade git+https://github.com/TH30R10N/CheckUser.git
+python3 -m pip install --upgrade git+https://github.com/asas-dev-web/CheckUser.git
 ```
 
 ### Ou
 ```
-curl -sL https://raw.githubusercontent.com/TH30R10N/CheckUser/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
+curl -sL https://raw.githubusercontent.com/asas-dev-web/CheckUser/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
 ```
  *Opcao 2*
 
